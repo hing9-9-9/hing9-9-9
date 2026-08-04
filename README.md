@@ -30,7 +30,7 @@ transaction features.
 
 ### [CHAI-Student/CRK-model-HG](https://github.com/CHAI-Student/CRK-model-HG) &nbsp;`Python` `FastAPI` `TensorRT`
 
-The decision and settlement service for an unmanned smart vending machine — **primary author, 91 commits**
+The decision and settlement service for an unmanned smart vending machine — **primary author**
 in an industry–academia project.
 
 - Determines *what was taken and how many* from camera footage and load-cell readings alone,
